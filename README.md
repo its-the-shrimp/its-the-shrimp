@@ -12,7 +12,7 @@ Hello, my name is Tim "The Shrimp" Kurdov, here are some of the things I've done
 - [Rust](https://github.com/rust-lang/rust)
 - [Yew](https://github.com/yewstack/yew)
 
-# Snippets
+## Snippets
 - [`ctime()` in pure Rust](https://gist.github.com/its-the-shrimp/45431498cd22cd0a47ef382485ac9ff1)
 
 ### 🦐
