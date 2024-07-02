@@ -1,5 +1,5 @@
 ### 🦐
-Hello, my name is Tim "The Shrimp" Kurdov, here is some of the things I've done as a programmer:
+Hello, my name is Tim "The Shrimp" Kurdov, here are some of the things I've done as a programmer:
 
 ## Projects
 - [shrimple](https://github.com/its-the-shrimp/shrimple): Static website generator supercharged with Lua
