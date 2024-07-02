@@ -8,7 +8,7 @@ Hello, my name is Tim "The Shrimp" Kurdov, here are some of the things I've done
 - [yew-fmt](https://github.com/its-the-shrimp/yew-fmt): Code formatter for the [Yew](https://yew.rs) framework
 - [yew-html-ext](https://github.com/its-the-shrimp/yew-html-ext): Handy syntactic extensions for the macros of the [Yew](https://yew.rs) framework
 
-## Contributions
+## Contributions:
 - [Rust](https://github.com/rust-lang/rust)
 - [Yew](https://github.com/yewstack/yew)
 
