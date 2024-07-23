@@ -14,5 +14,6 @@ Here are some of the things I've done as a programmer:
 
 ## Snippets:
 - [`ctime()` in pure Rust](https://gist.github.com/its-the-shrimp/45431498cd22cd0a47ef382485ac9ff1)
+- [MIME type detector based on the file extension](https://gist.github.com/its-the-shrimp/1c085a4b3a87e60577eb6eb5523d3aa4)
 
 ### 🦐
