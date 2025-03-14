@@ -17,5 +17,6 @@ Here are some of the things I've done as a programmer:
 - [`ctime()` in pure Rust](https://gist.github.com/its-the-shrimp/45431498cd22cd0a47ef382485ac9ff1)
 - [MIME type detector in Rust based on the file extension](https://gist.github.com/its-the-shrimp/1c085a4b3a87e60577eb6eb5523d3aa4)
 - [Get the length of an array in Rust as a constant](https://gist.github.com/its-the-shrimp/d1d751cf75174e5e749114b6e86cdd4b)
+- [`try` blocks in stable Rust](https://gist.github.com/its-the-shrimp/11d13d6e842c1054024973cab830da51)
 
 ### 🦐
