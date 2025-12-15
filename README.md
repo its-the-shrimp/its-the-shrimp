@@ -20,6 +20,9 @@ Here are some of the things I've done as a programmer:
 - [Get the length of an array in Rust as a constant](https://gist.github.com/its-the-shrimp/d1d751cf75174e5e749114b6e86cdd4b)
 - [`try` blocks in stable Rust](https://gist.github.com/its-the-shrimp/11d13d6e842c1054024973cab830da51)
 
+## Links:
+- [My LinkedIn](https://www.linkedin.com/in/tim-kurdov-1b960a282/) with some useful articles
+
 If you appreciate my work, consider helping me buy food :3
 
 https://github.com/sponsors/its-the-shrimp
