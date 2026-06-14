@@ -7,8 +7,10 @@ Here are some of the things I've done as a programmer:
 - [shrimple-docs](https://github.com/its-the-shrimp/shrimple-docs): CLI for browsing Rust docs right in the terminal
 - [shrimple-localhost](https://github.com/its-the-shrimp/shrimple-localhost): Zero-dependency minimal Rust library & CLI for a local HTTP server
 - [shrimple-telegram](https://github.com/its-the-shrimp/shrimple-telegram): A shrimple library for creating Telegram bots
+- [shrimple-parser](https://github.com/its-the-shrimp/shrimple-parser): A shrimple library for constructing parsers/lexers with rich error reporting
 - [yew-fmt](https://github.com/its-the-shrimp/yew-fmt): Code formatter for the [Yew](https://yew.rs) framework
 - [yew-html-ext](https://github.com/its-the-shrimp/yew-html-ext): Handy syntactic extensions for the macros of the [Yew](https://yew.rs) framework
+
 
 ## Contributions:
 - [Rust](https://www.rust-lang.org) (my PRs [here](https://github.com/rust-lang/rust/pulls?q=is%3Apr+author%3Aits-the-shrimp+))
